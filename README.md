@@ -5,6 +5,6 @@ hola
 </picture>
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1| Hamburguesas  |
-|     2| Mi perro      |
-|     3| Play          |
+|     1| Hola  |
+|     2| Hola pero 2      |
+|     3| Ola          |

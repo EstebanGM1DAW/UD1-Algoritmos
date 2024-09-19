@@ -8,3 +8,8 @@ hola
 |     1| Hola  |
 |     2| Hola pero 2      |
 |     3| Ola          |
+<details>
+<summary>Top saludos</summary>
+Hola, holi, oli, saludiños
+</details>
+

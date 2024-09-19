@@ -5,11 +5,12 @@ literalmente yo:
 </picture>
 ## Yo
 Holaaa
-| Rank | THING-TO-RANK |
+| Rank | AFICIONES |
 |-----:|---------------|
-|     1| Hola  |
-|     2| Hola pero 2      |
-|     3| Ola          |
+|     1| Play  |
+|     2| Xbox     |
+|     3| Pc          |
+|     4| Nintendo |
 <details>
 <summary>Top saludos</summary>
 Hola, holi, oli, saludiños

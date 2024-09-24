@@ -1,0 +1,13 @@
+INICIO
+calificacion=0;
+calificacionObt=0;
+division=0;
+bucle for hasta 10
+/*
+comprobar que esta entre 0 y 10, si no, volver a pedir(restar un paso al For)
+pedir calificacion y en cada repiticion sumar al numero la calificacion obtenida
+(calificacion+calificacionObt)
+*/
+dividir calificaicon entre 10 -> division = calificacionObt/10
+mostrar la division
+FIN

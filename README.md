@@ -7,12 +7,12 @@ Hola, soy Esteban Gonzalez Morales (Yo ->):
 Holaaa
 | Favorito | Módulos |
 |-----:|---------------|
-|     1| Lenguaje  |
-|     2| Bases de datos     |
-|     3| Programacion          |
-|     4| Sistemas Informaticos |
+|     1| Ramaa  |
+|     2| Locura |
+|     3| Rama          |
+|     4| Locura Informatica |
 <details>
 <summary>Sobre mi</summary>
-Me gustan los videojuegos
+RamaLocura
 </details>
 

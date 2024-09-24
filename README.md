@@ -5,14 +5,14 @@ Hola, soy Esteban Gonzalez Morales (Yo ->):
 </picture>
 ## Yo
 Holaaa
-| Rank | AFICIONES |
+| Favorito | Módulos |
 |-----:|---------------|
-|     1| Play  |
-|     2| Xbox     |
-|     3| Pc          |
-|     4| Nintendo |
+|     1| Lenguaje  |
+|     2| Bases de datos     |
+|     3| Programacion          |
+|     4| Sistemas Informaticos |
 <details>
-<summary>Top saludos</summary>
-Hola, holi, oli, saludiños
+<summary>Sobre mi</summary>
+Me gustan los videojuegos
 </details>
 

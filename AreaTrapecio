@@ -1,0 +1,7 @@
+1.Pedir al usuario la base mayor
+2.Pedir la base menor
+3.Pedir Altura
+4.Comprobar que ninguno es negativo, si lo es volver al paso 1,2 o 3 segun cual sea el negativo
+5.Comprobar que la base mayor es mayor a la base menor, si no, volver a pedir las 2
+6.Con los datos hacer la operacion ->  A=(a+b)h/2
+7.Darle el resultado al usuario (print)

@@ -1,0 +1,10 @@
+Algoritmo Rectangulo
+	altura = 0
+	base = 0
+	Escribir "Altura: "
+	Leer altura
+	Escribir "Base: "
+	Leer base
+	rectan = 2*base+2*altura
+	Escribir "Perimetro: " rectan
+FinAlgoritmo

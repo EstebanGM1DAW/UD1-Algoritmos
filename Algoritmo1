@@ -1,0 +1,6 @@
+Algoritmo Saludar
+	nombre = ""
+	Escribir "Escribe tu nombre: "
+	Leer nombre
+	Escribir "Holaaa " nombre
+FinAlgoritmo

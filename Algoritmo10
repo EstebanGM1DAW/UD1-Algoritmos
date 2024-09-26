@@ -1,0 +1,24 @@
+Algoritmo CalificacionAlgoritmos
+	promedioPar = 0
+	nota1 = 0
+	nota2 = 0
+	nota3 = 0
+	notaExa = 0
+	notaTrab = 0
+	Escribir "Nota Primer Trimestre: "
+	Leer nota1
+	Escribir "Nota Segundo Trimestre: "
+	Leer nota2
+	Escribir "Nota Tercer Trimestre: "
+	Leer nota3
+	Escribir "Nota Examen: "
+	Leer notaExa
+	Escribir "Nota Trabajo: "
+	Leer notaTrab
+	promedioPar = (nota1+nota2+nota3)/3
+	cincuentacinco = promedioPar*0.55
+	treinta = notaExa*0.30
+	quince = notaTrab*0.15
+	notaFinal = quince+treinta+cincuentacinco
+	Escribir notaFinal
+FinAlgoritmo

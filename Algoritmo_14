@@ -1,0 +1,12 @@
+Algoritmo InvertirNumeroDosCifras
+    num=0
+	decenas=0
+	unidades=0
+	definir invertido Como real
+    Escribir "Introduce un número de dos cifras:"
+    Leer num
+    decenas <- trunc(num / 10)
+    unidades <- num % 10
+    invertido <- (unidades * 10) + decenas
+    Escribir "El número invertido es: ", invertido
+FinAlgoritmo

@@ -1,0 +1,11 @@
+Algoritmo hipo
+	a=0
+	b=0
+	hipotenusa=0
+		Escribir "Introduce el valor del cateto a:"
+		Leer a
+		Escribir "Introduce el valor del cateto b:"
+		Leer b
+		hipotenusa <- Raiz( a^2 + b^2 )
+		Escribir "La hipotenusa del triángulo es: ", hipotenusa
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo preciodescuento
+	total = 0
+	precio = 0
+	Repetir
+		Escribir "Precio Compra: (Poner 0 para salir)"
+		Leer precio
+		total = total+precio
+	Hasta Que precio=0
+	Escribir "Se pagara: " total-total*0.15
+FinAlgoritmo

@@ -1,8 +1,0 @@
-INICIO
-Pedir edad al usuario
-comprobar si es una edad real (negativa o mayor a 130 aprox)
-comparar con un if si es mayor de 18
-si es +18 saldra mensaje: "eres mayor de edad"
-si es -18 saldra mensaje: "eres menor de edad"
-si es 18 exacto saldra mensaje: "acabas de cumplir la mayoria de edad"
-FIN

@@ -1,0 +1,13 @@
+Algoritmo IntercambiarValores
+	a = 0
+	b = 0
+	aux = 0
+	Escribir "Numero 1: "
+	Leer a
+	Escribir "Numero 2: "
+	Leer b
+	aux = a
+	a = b
+	b = aux
+	Escribir "A: " a " y B: " b
+FinAlgoritmo

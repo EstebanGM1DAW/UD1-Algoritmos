@@ -1,0 +1,14 @@
+Algoritmo MinutosAHoras
+	minutosDef <- 0
+	definir minutos Como real
+	definir horas Como real
+	Escribir 'Minutos: '
+	Leer minutos
+	Si minutos>60 Entonces
+		horas <- minutos/60
+		minutos <- minutos%60
+		Escribir 'Son ', horas, 'h y ', minutos, 'minutos'
+	SiNo
+		Escribir 'Son 0h y ', minutos, 'minutos'
+	FinSi
+FinAlgoritmo

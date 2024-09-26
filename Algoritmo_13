@@ -1,0 +1,8 @@
+Algoritmo raiz2raiz3
+	num = 0
+	Escribir "Numero para calcular Raiz Cuadrada y Raiz Cubica: "
+	Leer num
+	raiz2 = num^(1/2)
+	raiz3 = num^(1/3)
+	Escribir "Raiz Cuadrada= " raiz2 " y Raiz Cubica= " raiz3
+FinAlgoritmo

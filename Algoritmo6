@@ -1,0 +1,14 @@
+Algoritmo Promedio3Numeros
+	total = 0
+	num1 = 0
+	Escribir "Numero 1: "
+	Leer num1
+	total = total + num1
+	Escribir "Numero 2: "
+	Leer num1
+	total = total + num1
+	Escribir "Numero 3: "
+	Leer num1
+	total = total + num1
+	Escribir "Promedio: " total/3
+FinAlgoritmo

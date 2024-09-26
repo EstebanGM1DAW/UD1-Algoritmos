@@ -7,4 +7,6 @@ Algoritmo Rectangulo
 	Leer base
 	rectan = 2*base+2*altura
 	Escribir "Perimetro: " rectan
+	Escribir "Area: " base*altura
 FinAlgoritmo
+

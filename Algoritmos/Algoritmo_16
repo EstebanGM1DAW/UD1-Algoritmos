@@ -1,1 +1,11 @@
-
+Algoritmo Distancias2Coches
+	escribir "Velocidad lenta: "
+	Leer v1
+	escribir "Velocidad Rapida: "
+	Leer v2
+	Escribir "Distancia entre ellos: "
+	Leer d
+	tiempo = d / (v2 - v1)
+	tiempoMin = tiempo * 60
+	escribir "Tiempo que tardaría: " tiempo "h, lo que tardaria en minutos: " tiempoMin
+FinAlgoritmo

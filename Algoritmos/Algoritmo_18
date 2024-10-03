@@ -1,0 +1,17 @@
+Algoritmo TestPuntos
+	respP = 0
+	respN = 0
+	respB = 0
+	Escribir "Numero de respuestas correctas: "
+	Leer respP
+	Escribir "Numero de respuestas en blanco: "
+	Leer respB
+	Escribir "Numero de respuestas fallidas: "
+	Leer respN
+	notaFinal = (respP*5)
+	Mientras respN>1 Hacer
+		notaFinal = notaFinal-1
+		respN = respN-1
+	FinMientras
+	Escribir "Nota final: " notaFinal
+FinAlgoritmo

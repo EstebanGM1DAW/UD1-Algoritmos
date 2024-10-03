@@ -1,0 +1,29 @@
+Proceso AdivinarEn10Intentos
+    Definir random, numUser, cont Como Entero
+    Definir adivinado Como Logico
+    adivinado <- Falso
+    random <- Azar(100)
+	
+    Para cont <- 1 Hasta 10 Con Paso 1 Hacer
+        Si adivinado = Falso Entonces
+            Escribir 'Pon un número: '
+            Leer numUser
+			
+            Si numUser = random Entonces
+                Escribir '¡ESE ERA!'
+                adivinado <- Verdadero
+                Esperar 3 Segundos
+            SiNo
+                Si numUser > random Entonces
+                    Escribir 'Es menor'
+                SiNo
+                    Escribir 'Es mayor'
+                FinSi
+            FinSi
+        FinSi
+    FinPara
+	
+    Si adivinado = Falso Entonces
+        Escribir 'Se acabaron los intentos, el número era: ', random
+    FinSi
+FinProceso

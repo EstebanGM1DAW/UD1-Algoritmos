@@ -1,0 +1,27 @@
+Proceso HorasPuebloAaB
+    Definir hora, min, secs, tiempo, totalSegundos, horasLlegada, minutosLlegada, segundosLlegada Como Entero
+	
+    Escribir 'Hora salida: '
+    Leer hora
+    Escribir 'Minuto salida: '
+    Leer min
+    Escribir 'Segundo salida: '
+    Leer secs
+	
+    Escribir 'Tiempo que se tarda en segundos: '
+    Leer tiempo
+	
+    totalSegundos <- (hora * 3600) + (min * 60) + secs
+	
+    totalSegundos <- totalSegundos + tiempo
+	
+    horasLlegada <- Trunc(totalSegundos / 3600)
+    totalSegundos <- totalSegundos % 3600
+	
+    minutosLlegada <- Trunc(totalSegundos / 60)
+    totalSegundos <- totalSegundos % 60
+    segundosLlegada <- totalSegundos
+	
+    horasLlegada <- horasLlegada % 24
+    Escribir 'Hora de llegada: ', horasLlegada, 'h ', minutosLlegada, 'min ', segundosLlegada, 'seg '
+FinProceso
